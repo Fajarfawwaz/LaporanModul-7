@@ -53,3 +53,19 @@ Menambahkan atribut ``` enctype="multipart/form-data" ``` pada tag form agar for
     <button type="submit" class="btn btn-primary">Kirim</button>
 </form>
 ```
+
+--- 
+
+# HASIL PRAKTIKUM 
+
+## A. Tampilan Form Tambah Artikel
+
+### Menampilkan field "Telusuri" atau "Choose File" untuk mengunggah gambar ke dalam sistem.
+
+<img width="1114" height="663" alt="image" src="https://github.com/user-attachments/assets/fb06b759-fe4c-42ec-99e0-95086051ed01" />
+
+## B. Proses Upload Gambar
+
+### Bukti bahwa file gambar berhasil dipilih dan dikirim melalui form.
+
+<img width="1101" height="453" alt="image" src="https://github.com/user-attachments/assets/6ad6b53f-698b-41ae-8ba0-681b4cff3cfe" />
