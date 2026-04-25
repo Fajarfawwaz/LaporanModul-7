@@ -87,4 +87,5 @@ Menambahkan atribut ``` enctype="multipart/form-data" ``` pada tag form agar for
 ### DI ATAS INI ADALAH LAPORAN HASIL PRAKTIKUM MODUL KE 7, UNTUK MODUL PRAKTIKUM 1-6 DI BAWAH INI LINK NYA : 
 
 BERIKUT ADALAH LINK LAPORAN PRAKTIKUM 1-5 : https://github.com/Fajarfawwaz/Praktikum1-5.git
+
 BERIKUT ADALAH LINK LAPORAN PRAKTIKUM 6 : https://github.com/Fajarfawwaz/LaporanPraktikum_6.git 
