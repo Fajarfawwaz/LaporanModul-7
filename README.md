@@ -82,3 +82,9 @@ Menambahkan atribut ``` enctype="multipart/form-data" ``` pada tag form agar for
 
 <img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/37232a91-1078-4f08-abaa-493d305da11f" />
 
+--- 
+
+### DI ATAS INI ADALAH LAPORAN HASIL PRAKTIKUM MODUL KE 7, UNTUK MODUL PRAKTIKUM 1-6 DI BAWAH INI LINK NYA : 
+
+BERIKUT ADALAH LINK LAPORAN PRAKTIKUM 1-5 : https://github.com/Fajarfawwaz/Praktikum1-5.git
+BERIKUT ADALAH LINK LAPORAN PRAKTIKUM 6 : https://github.com/Fajarfawwaz/LaporanPraktikum_6.git 
