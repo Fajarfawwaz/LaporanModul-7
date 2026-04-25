@@ -43,4 +43,13 @@ public function add()
 
 ### 2. Modifikasi Form Tambah Artikel
 
-Menambahkan atribut enctype="multipart/form-data" pada tag form agar form dapat mengirimkan data file. Selain itu, menambahkan input type file untuk memilih gambar.
+Menambahkan atribut ``` enctype="multipart/form-data" ``` pada tag form agar form dapat mengirimkan data file. Selain itu, menambahkan input type ``` file ``` untuk memilih gambar.
+
+```HTML
+<form action="" method="post" enctype="multipart/form-data">
+    <p>
+        <input type="file" name="gambar">
+    </p>
+    <button type="submit" class="btn btn-primary">Kirim</button>
+</form>
+```
