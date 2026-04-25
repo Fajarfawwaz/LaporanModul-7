@@ -69,3 +69,16 @@ Menambahkan atribut ``` enctype="multipart/form-data" ``` pada tag form agar for
 ### Bukti bahwa file gambar berhasil dipilih dan dikirim melalui form.
 
 <img width="1101" height="453" alt="image" src="https://github.com/user-attachments/assets/6ad6b53f-698b-41ae-8ba0-681b4cff3cfe" />
+
+## C. Verifikasi Database/Folder
+
+### Menampilkan bahwa nama file sudah tersimpan di database dan file fisik sudah berpindah ke folder public/gambar.
+
+<img width="1059" height="340" alt="image" src="https://github.com/user-attachments/assets/66765cba-da61-4734-8c45-59d6aed3934f" />
+
+## D. Tampilan Artikel dengan Gambar
+
+### Menampilkan halaman daftar artikel atau detail artikel yang sudah berhasil memuat gambar yang diunggah.
+
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/37232a91-1078-4f08-abaa-493d305da11f" />
+
